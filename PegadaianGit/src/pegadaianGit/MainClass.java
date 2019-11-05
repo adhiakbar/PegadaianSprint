@@ -7,7 +7,7 @@ public class MainClass {
 		
 		System.out.println("Hell-o World!");
 		System.out.println("This is Version 3Million");
-		System.out.println("DANANG NANANG");
+		System.out.println("danang bajingan");
 
 	}
 
