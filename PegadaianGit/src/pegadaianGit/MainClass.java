@@ -6,7 +6,8 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hell-o World!");
-		System.out.println("This is Version 8000");
+		System.out.println("This is Version 9k");
+		System.out.println("oke banget");
 
 	}
 
